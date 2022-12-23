@@ -6,7 +6,11 @@ A powerful command line tool (CLI) for developing WordPress themes and plugin ap
 
 To use the badassWP CLI you must either:
 
-- Install it globally with `npm install -g badassWP`, where you execute commands with the syntax like so: `badassWP make`.
+- Install it globally with `npm install -g badassWP`, where you execute commands with the syntax like so:
+
+```
+badassWP make
+```
 
 ## CLI Commands
 
