@@ -8,7 +8,7 @@ To use the badassWP CLI you must either:
 
 - Install it globally with `npm install -g badassWP`, where you execute commands with the syntax like so:
 
-```
+```shell
 badassWP make
 ```
 
@@ -29,6 +29,6 @@ Runs an interactive shell with a prompt that helps you make a new WP Plugin, Pos
 
 To create a new WP Plugin with the prompt, execute:
 
-```
+```shell
 badassWP make Plugin <plugin_name>
 ```
